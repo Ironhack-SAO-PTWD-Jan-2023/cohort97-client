@@ -1,0 +1,26 @@
+[
+  {
+      "id": 2,
+      "attributes": {
+          "name": "Matheus",
+          "imageURL": "https://avatars.githubusercontent.com/u/98778754?s=150&v=4",
+          "about": "Student WD PT SAO",
+          "age": 31,
+          "createdAt": "2023-03-24T00:06:07.551Z",
+          "updatedAt": "2023-03-24T00:08:13.152Z",
+          "publishedAt": "2023-03-24T00:06:07.539Z"
+      }
+  },
+  {
+      "id": 3,
+      "attributes": {
+          "name": "André",
+          "imageURL": "https://avatars.githubusercontent.com/u/122580573?s=150&v=4",
+          "about": "Student WD PT SAO",
+          "age": 36,
+          "createdAt": "2023-03-24T00:41:54.971Z",
+          "updatedAt": "2023-03-24T00:41:54.971Z",
+          "publishedAt": "2023-03-24T00:41:54.944Z"
+      }
+  }
+]

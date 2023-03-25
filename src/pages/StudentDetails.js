@@ -16,7 +16,7 @@ function StudentDetails() {
   }, [studentId])
 
   const deleteStudent = () => {
-    if (window.confirm(`Delete ${student.attributes.name}?`) == true) {
+    if (window.confirm(`Delete ${student.attributes.name}?`) === true) {
       api.removeStudent(studentId)
       .then(() => {
         navigate('/students');
